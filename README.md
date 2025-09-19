@@ -1,4 +1,4 @@
-## 📦 How to Install Split Files Using 7-Zip
+## 📦 How to Install iso Files Using 7-Zip
 
 If you've downloaded files that are split into parts (e.g., `file.7z.001`, `file.7z.002`, etc.), follow the steps below to extract them properly.
 
